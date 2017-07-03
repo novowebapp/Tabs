@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#342E37</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="verde_tab">#79bc81</color>
+    <color name="verde_menu_tab">#37a466</color>
+    <color name="azul">#226699</color>
+    <color name="verde_escuro">#004600</color>
+    <color name="vermelho_escuro">#881111</color>
+</resources>
