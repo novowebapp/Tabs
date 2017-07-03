@@ -42,6 +42,7 @@ public class home extends Fragment {
 
         myBrowser_home.loadUrl("http://prestador.esy.es");
         //teste commit
+        //teste commit 2
         return rootView;
     }
 }
