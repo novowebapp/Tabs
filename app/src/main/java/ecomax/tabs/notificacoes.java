@@ -25,7 +25,7 @@ public class notificacoes extends Fragment {
         myBrowser_contato.setWebViewClient(new WebViewClient());
 //webView.setWebChromeClient(new WebChromeClient());
 
-        myBrowser_contato.loadUrl("http://ecomax.esy.es/open-ticket/");
+        //myBrowser_contato.loadUrl("http://ecomax.esy.es/open-ticket/");
 
         return rootView;
 

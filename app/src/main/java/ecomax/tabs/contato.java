@@ -21,13 +21,14 @@ public class contato extends Fragment {
 
         myBrowser_contato = (WebView) rootView.findViewById(R.id.webview2);
 
-        myBrowser_contato.getSettings().setJavaScriptEnabled(true);
-        myBrowser_contato.getSettings().setDomStorageEnabled(true);
+
+        //myBrowser_contato.getSettings().setJavaScriptEnabled(true);
+        //myBrowser_contato.getSettings().setDomStorageEnabled(true);
 
         myBrowser_contato.setWebViewClient(new WebViewClient());
 //webView.setWebChromeClient(new WebChromeClient());
 
-        myBrowser_contato.loadUrl("http://ecomax.esy.es/loja/");
+       // myBrowser_contato.loadUrl("http://fotolima.esy.es/");
 
         return rootView;
     }
